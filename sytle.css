@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+.cabecalho{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(228, 228, 233);
+}
+
+.cabecalho_título{
+color: #007;
+font-family: "Madiami One", sans-serif;
+font-weight: 900;
+}
